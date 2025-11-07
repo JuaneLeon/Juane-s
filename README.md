@@ -33,3 +33,4 @@ Actualmente estoy cursando la **Ingeniería en Electrónica y Computación (IECS
 * 🏆 Tengo experiencia en competencias de robótica, ¡incluyendo la **World Robot Olympiad (WRO)**!
 * 🎮 Me encanta el desarrollo de videojuegos 2D (¡Team `Pixel Art`!).
 * 💡 Mi objetivo es construir soluciones que conecten el mundo físico con el digital.
+* 💡 Actualmente en Reclutamiento de Delta Robotics.
