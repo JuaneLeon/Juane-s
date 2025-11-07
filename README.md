@@ -9,7 +9,7 @@
 
 *(Aquí puedes poner la descripción de tu proyecto. Por ejemplo...)*
 
-Este repositorio sirve como mi "caja de arena" digital para [nombre-del-proyecto]. El objetivo es explorar [tecnología-principal] para construir [lo-que-hace-el-proyecto].
+Este repositorio sirve como mi "caja de arena" digital para hacer algunas pruebas. El objetivo es explorar como funciona git y que puedo hacer con el para construir un mejor yo.
 
 ---
 
